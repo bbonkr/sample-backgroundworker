@@ -6,13 +6,16 @@
 
 ### 정상 종료
 
-https://youtu.be/tufe4YzYeFI
+[![정상 종료](http://img.youtube.com/vi/tufe4YzYeFI/0.jpg)](http://www.youtube.com/watch?v=tufe4YzYeFI)
+
 
 ### 취소
 
-https://youtu.be/tv-AqytAIgg
+[![취소](http://img.youtube.com/vi/tv-AqytAIgg/0.jpg)](http://www.youtube.com/watch?v=tv-AqytAIgg)
+
 
 ### 예외
 
-https://youtu.be/b2d_0HSqBMY
+[![예외](http://img.youtube.com/vi/b2d_0HSqBMY/0.jpg)](http://www.youtube.com/watch?v=b2d_0HSqBMY)
+
 
